@@ -1,4 +1,4 @@
-Used the Sentiment140 dataset: https://www.kaggle.com/datasets/kazanova/sentiment140/data 
+Used the Sentiment140 dataset: https://www.kaggle.com/datasets/kazanova/sentiment140/data  
 To analyze sentiment through text using Logistic Regression and Naive Bayes classifiers.
 The goal is to predict the sentiment of tweets based on text data.
 This repository contains code for performing this sentiment analysis and includes:
