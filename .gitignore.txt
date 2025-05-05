@@ -1,0 +1,52 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (optional - comment out if you want to include small datasets)
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Ignore outputs
+*.log
+*.out
+*.bak
+
+# Ignore temporary files
+*.swp
+*.tmp
+*~
+
+# Ignore notebook outputs if using tools like nbconvert
+*.nbconvert.ipynb
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Ignore pipenv, poetry, or build folders if used
+Pipfile.lock
+poetry.lock
+build/
+dist/
+*.egg-info/
+
+# Optional: exclude environment YAML
+# environment.yml
+
+# If using JupyterLab extensions
+.lab/
